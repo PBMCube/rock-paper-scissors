@@ -1,4 +1,4 @@
-
+//SCA Fighter Trainer modeled after rock, paper scissors. Thanks
 var rps= {
 
 	humanScore:0,
